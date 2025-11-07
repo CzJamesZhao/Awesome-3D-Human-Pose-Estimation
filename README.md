@@ -4,7 +4,7 @@ This repository is a collection of recent 3D-Human-Pose-Estimation works
 ---
 
 ## 📌 快速导航
-- [数据集与指标](#数据集与指标)
+- [Datasets and Metrics](#Datasets and Metrics)
 - [单人：视频/2D→3D 提升](#单人视频2d3d-提升)
 - [单人：扩散/多假设](#单人扩散多假设)
 - [单人：网格/SMPL 回归（含关键点评测）](#单人网格smpl-回归含关键点评测)
@@ -14,7 +14,7 @@ This repository is a collection of recent 3D-Human-Pose-Estimation works
 
 ---
 
-## 数据集与指标
+## Datasets and Metrics
 - **Human3.6M**（H36M）：MPJPE、PA-MPJPE（Protocol #1/#2）。
 - **MPI-INF-3DHP**（3DHP）：PCK、AUC、MPJPE。
 - **3DPW**（in-the-wild，常用于网格/SMPL方法，同样可导出关节评测）：PA-MPJPE、MPJPE、PVE。
