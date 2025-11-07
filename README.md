@@ -1,6 +1,13 @@
 # Awesome-3D-Human-Pose-Estimation
 This repository is a collection of recent 3D-Human-Pose-Estimation works
 
+⭐ If you like this list, please give it a star! 😄
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)  
+[![Last Updated](https://img.shields.io/badge/last%20updated-2025--11--07-blue.svg)](#)  
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-green.svg)](#contributing)  
+
 ---
 
 ## 📌 快速导航
@@ -14,7 +21,7 @@ This repository is a collection of recent 3D-Human-Pose-Estimation works
 
 ---
 
-## Datasets and Metrics
+## Datasets & Metrics
 - **Human3.6M**（H36M）：MPJPE、PA-MPJPE（Protocol #1/#2）。
 - **MPI-INF-3DHP**（3DHP）：PCK、AUC、MPJPE。
 - **3DPW**（in-the-wild，常用于网格/SMPL方法，同样可导出关节评测）：PA-MPJPE、MPJPE、PVE。
