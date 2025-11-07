@@ -4,7 +4,7 @@ This repository is a collection of recent 3D-Human-Pose-Estimation works
 ---
 
 ## 📌 快速导航
-- [Datasets and Metrics](#Datasets and Metrics)
+- [Datasets and Metrics](#Datasets--Metrics)
 - [单人：视频/2D→3D 提升](#单人视频2d3d-提升)
 - [单人：扩散/多假设](#单人扩散多假设)
 - [单人：网格/SMPL 回归（含关键点评测）](#单人网格smpl-回归含关键点评测)
